@@ -11,9 +11,9 @@ About = "This is an archive of my work. I explore the intersection between media
 # Sets the number of posts to display on the front page
 PostLimit = 4
 
-# [[profiles]]
-# name = "GitHub"
-# url = ""
+[[profiles]]
+name = "Instagram"
+url = "https://www.instagram.com/kgoldendesign/"
 # 
 # [[profiles]]
 # name = "Twitter"
