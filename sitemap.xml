@@ -3,17 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>art.kevingolden.me/posts/helloworldv2/</loc>
-    <lastmod>2021-04-02T21:03:46-07:00</lastmod>
+    <loc>art.kevingolden.me/posts/helloworld3/</loc>
+    <lastmod>2021-04-02T22:16:01-07:00</lastmod>
   </url>
   
   <url>
     <loc>art.kevingolden.me/</loc>
-    <lastmod>2021-04-02T21:03:46-07:00</lastmod>
+    <lastmod>2021-04-02T22:16:01-07:00</lastmod>
   </url>
   
   <url>
     <loc>art.kevingolden.me/posts/</loc>
+    <lastmod>2021-04-02T22:16:01-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>art.kevingolden.me/posts/helloworldv2/</loc>
     <lastmod>2021-04-02T21:03:46-07:00</lastmod>
   </url>
   
