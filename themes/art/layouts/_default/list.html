@@ -10,7 +10,7 @@
   <div>
 
     <!-- orders content according to the "publishdate" field in front matter -->
-    {{ range .Pages.ByPublishDate }}
+    {{ range .Pages }}
     <div class="list">
 			<a href="{{ .Permalink }}">
       {{ if isset .Params "images" }}

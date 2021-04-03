@@ -31,7 +31,7 @@
 	<div>
 
 		<!-- orders content according to the "publishdate" field in front matter -->
-		{{ range first 8 .Site.RegularPages.ByPublishDate }}
+		{{ range first 8 .Site.RegularPages }}
 		<div class="list">
 			<a href="{{ .Permalink }}">
 				{{ if isset .Params "images" }}
