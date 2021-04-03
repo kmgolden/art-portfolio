@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+{{ partial "head.html" . }}
+
+<body>
+  {{ partial "page_header.html" . }}
+
+  <h3>Archive</h3>
+
+  <div>
+
+    <!-- orders content according to the "publishdate" field in front matter -->
+    {{ range .Pages.ByPublishDate }}
+    <div class="list">
+			<a href="{{ .Permalink }}">
+      {{ if isset .Params "images" }}
+			<img src="{{ index .Params "images" }}">
+			{{ end }}
+      {{ .Title }}
+			</a>
+			<br />
+      <time>{{ .Date.Format "January 2, 2006" }}</time>
+    </div>
+    <br />
+    {{ end }}
+  </div>
+</body>
+
+</html>

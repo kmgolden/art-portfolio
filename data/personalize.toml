@@ -1,0 +1,32 @@
+Name = "Kevin Golden"
+
+# Supports markdown
+About = "This is an archive of my work. I explore the intersection between media, art, and technology as an interactive creative director and an artist."
+
+# Email = ""
+
+# Add the filename with file extension.
+# Resume = ""
+
+# Sets the number of posts to display on the front page
+PostLimit = 4
+
+# [[profiles]]
+# name = "GitHub"
+# url = ""
+# 
+# [[profiles]]
+# name = "Twitter"
+# url = ""
+# 
+# [[profiles]]
+# name = "Goodreads"
+# url = ""
+# 
+# [[profiles]]
+# name = "LinkedIn"
+# url = ""
+
+# This is the endpoint under the integrations section of the Site Code
+# GoatCounterCode = ""
+
