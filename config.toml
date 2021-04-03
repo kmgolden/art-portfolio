@@ -1,4 +1,4 @@
-baseURL = "art.kevingolden.me/"
+baseURL = "https://art.kevingolden.me/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "art"
