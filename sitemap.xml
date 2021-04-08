@@ -1,38 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://art.kevingolden.me/</loc>
-    <lastmod>2021-04-02T22:44:08-07:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-04-07T22:48:59-07:00</lastmod>
+  </url><url>
     <loc>https://art.kevingolden.me/posts/</loc>
-    <lastmod>2021-04-02T22:44:08-07:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-04-07T22:48:59-07:00</lastmod>
+  </url><url>
+    <loc>https://art.kevingolden.me/posts/untitled/</loc>
+    <lastmod>2021-04-07T22:48:59-07:00</lastmod>
+  </url><url>
     <loc>https://art.kevingolden.me/posts/realnews/</loc>
     <lastmod>2021-04-02T22:44:08-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://art.kevingolden.me/posts/whatsnecessary/</loc>
     <lastmod>2021-04-02T22:35:59-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://art.kevingolden.me/posts/helloworld/</loc>
     <lastmod>2021-04-02T20:49:48-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://art.kevingolden.me/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://art.kevingolden.me/tags/</loc>
   </url>
-  
 </urlset>
